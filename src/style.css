@@ -1,0 +1,10 @@
+
+
+ul {
+    list-style: none;
+    display: inline-flex;
+    gap: 62px;
+    color: white;
+    font-weight: 700;
+    font-size: 23px;
+}
